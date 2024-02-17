@@ -1,0 +1,31 @@
+body {
+    background-color: #202533;
+}
+.glav{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+}
+.logo {
+    width: 782px;
+    height: 782px;
+}
+.menu {
+    background-color: #5F5098;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.menu-item{
+    width: 245px;
+    height: 70px;
+    background-color: #202533;
+    color:white;
+}
+ .glav_t{
+    color: white;
+    font-size: 36px;
+    
+}
